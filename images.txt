@@ -6,4 +6,4 @@ xhofe/alist:latest
 --platform=linux/arm64 xiaoyaliu/alist
 
 nyanmisaka/jellyfin:230414-amd64
-ghcr.io/jellyfin/jellyfin:2024080505
+ghcr.io/jellyfin/jellyfin:10.9.9

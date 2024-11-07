@@ -5,5 +5,7 @@ xhofe/alist:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
 
-nyanmisaka/jellyfin:230414-amd64
-ghcr.io/jellyfin/jellyfin:10.9.9
+#nyanmisaka/jellyfin:230414-amd64
+#ghcr.io/jellyfin/jellyfin:10.9.9
+
+mysql:5.5.42

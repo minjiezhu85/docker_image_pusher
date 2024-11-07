@@ -8,4 +8,4 @@ xhofe/alist:latest
 #nyanmisaka/jellyfin:230414-amd64
 #ghcr.io/jellyfin/jellyfin:10.9.9
 
-mysql:5.5.42
+mysql/mysql:5.5.42

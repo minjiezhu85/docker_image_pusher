@@ -1,4 +1,4 @@
-nginx
+#nginx
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 #xhofe/alist:latest
@@ -8,4 +8,5 @@ nginx
 #nyanmisaka/jellyfin:230414-amd64
 #ghcr.io/jellyfin/jellyfin:10.9.9
 
-mysql:5.5.53
+#mysql:5.5.53
+guovern/iptv-api

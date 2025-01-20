@@ -10,4 +10,7 @@
 
 #mysql:5.5.53
 #guovern/iptv-api
-makedie/fastapi-dls
+#makedie/fastapi-dls
+budtmo/docker-android:emulator_14.0
+budtmo/docker-android:emulator_13.0
+budtmo/docker-android:emulator_12.0

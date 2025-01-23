@@ -16,6 +16,9 @@
 #budtmo/docker-android:emulator_13.0
 #budtmo/docker-android:emulator_12.0
 
-redroid/redroid:15.0.0-latest
-redroid/redroid:14.0.0-latest
-redroid/redroid:13.0.0-latest
+#redroid/redroid:15.0.0-latest
+#redroid/redroid:14.0.0-latest
+#redroid/redroid:13.0.0-latest
+
+cnflysky/redroid-rk3588:12.0.0-latest
+cnflysky/redroid-rk3588:lineage-20

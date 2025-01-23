@@ -20,5 +20,7 @@
 #redroid/redroid:14.0.0-latest
 #redroid/redroid:13.0.0-latest
 
-cnflysky/redroid-rk3588:12.0.0-latest
-cnflysky/redroid-rk3588:lineage-20
+#cnflysky/redroid-rk3588:12.0.0-latest
+#cnflysky/redroid-rk3588:lineage-20
+
+teddynight/redroid:redroid-11-wifi

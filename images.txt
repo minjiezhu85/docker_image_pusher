@@ -24,3 +24,4 @@
 #cnflysky/redroid-rk3588:lineage-20
 
 teddynight/redroid:redroid-11-wifi
+teddynight/redroid:latest

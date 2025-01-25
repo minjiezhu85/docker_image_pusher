@@ -23,4 +23,4 @@
 #cnflysky/redroid-rk3588:12.0.0-latest
 #cnflysky/redroid-rk3588:lineage-20
 
-doubebly/doube-itv
+docker.io/doubebly/doube-itv:1.0.8
